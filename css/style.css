@@ -251,6 +251,7 @@ img.icon:hover {
 
 .portfolio-thumb img {
   width: 100%;
+  min-height: 100%;
 }
 
 .portfolio-thumb p {
